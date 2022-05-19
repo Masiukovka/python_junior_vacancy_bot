@@ -1,1 +1,1 @@
-# python_junior_vacancy_bot
+## Python junior vacancy bot
